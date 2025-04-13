@@ -1,7 +1,8 @@
 # Studiolo
 Buchverwaltung und Lesefortschrittsberechnung in Entwicklung. (Alpha-Demo)
 
-Diese Demo ist begrenzt auf 100 Einträge. Da das Programm sich noch im Alpha-Zustand befindet, fehlen noch viele Funktionen und es können Fehler auftreten. 
+Da das Programm sich noch im Alpha-Zustand befindet, fehlen noch viele Funktionen und es können Fehler auftreten. 
+Demo-Grenze: maximal 100 Einträge.
 
 Neueste Version: [Herunterladen](https://github.com/Alsweider/Studiolo/releases/latest)
 
