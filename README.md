@@ -10,6 +10,4 @@ Aktueller Funktionsumfang:
 
 Neueste Version: [Herunterladen](https://github.com/Alsweider/Studiolo/releases/latest)
 
-Demo-Grenze: bis zu 100 Einträge
-
 ![2025-04-14 17_39_02-Greenshot](https://github.com/user-attachments/assets/c82167c5-5927-4633-8589-35d5069accec)
