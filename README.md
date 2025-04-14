@@ -2,6 +2,7 @@
 Buchverwaltung und Lesefortschrittsberechnung in Entwicklung. (Alpha-Demo)
 
 Da das Programm sich noch im Alpha-Zustand befindet, fehlen noch viele Funktionen und es können Fehler auftreten. 
+
 Aktueller Funktionsumfang:
 
 * Bücher eintragen, bearbeiten und löschen (Demo ermöglicht bis zu 100 Einträge)
